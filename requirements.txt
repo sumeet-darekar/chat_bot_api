@@ -1,0 +1,5 @@
+fastapi==0.109.0
+re_edge_gpt==0.0.24
+requests==2.31.0
+requests-file==1.5.1
+uvicorn==0.25.0
